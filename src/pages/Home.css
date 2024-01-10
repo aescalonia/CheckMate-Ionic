@@ -1,0 +1,35 @@
+ion-title {
+    text-align: center;
+    background-image: linear-gradient(to right, #6B4EFF, #000000);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin-top: 1.5rem;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 1.5rem;  
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 43vh;
+  }
+  
+  .login-card {
+    width: 80%;
+    max-width: 400px;
+    margin: 0 auto;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  }
+  
+  .login-button {
+    width: 100%;
+  }
+  
+  

@@ -1,0 +1,21 @@
+.completed-task {
+    text-decoration: line-through;
+  }
+  
+.ion-datetime {
+  display: flex;
+  margin: auto;
+}
+
+.ion-text-center {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+ion-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
